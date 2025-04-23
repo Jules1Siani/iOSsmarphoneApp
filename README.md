@@ -68,7 +68,7 @@ SmartphoneApp/
 
 ## 📸 Demo Video
 
-[▶️ Watch the demo video](https://github.com/Jules1Siani/SmartphoneApp/raw/main/Screenshots/smartphone-demo.mov)
+[▶️ Watch the demo video](https://github.com/Jules1Siani/iOSsmartphoneApp/raw/main/Screenshots/smartphone-demo.mov)
 
 ---
 
